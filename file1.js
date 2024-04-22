@@ -15,3 +15,5 @@ let mystring = "20";
 mystring = +"20";
 console.log(typeof mystring);
 console.log(typeof Number(mystring));
+
+console.log("Hello");
