@@ -10,7 +10,7 @@ const person =  {
 //object.keys
 
 for(let key in person){
-console.log(key,":",person[key]);
+console.log(key,":",person[key]);     //  console.log(`${key}: ${person[key]}`);
 }
 console.log(Object.keys(person)); //return an array
 console.log(typeof (Object.keys(person)));
