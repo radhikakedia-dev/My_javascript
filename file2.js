@@ -12,6 +12,6 @@ console.log(num3===num4); //it checks the value as well as the datatype
 
 // != / !==
 console.log(num1 != num2);
-console.log(num2 !== num3);
+console.log(num3 !== num4);
 
 console.log("hello Radhika subh here");
